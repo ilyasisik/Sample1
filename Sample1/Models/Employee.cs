@@ -11,6 +11,7 @@ namespace Sample1.Models
         public String Fullname { get; set; }
         public String Department { get; set; } 
         public String Email { get; set; }
+        public String Sirname { get; set; }
 
     }
 }
